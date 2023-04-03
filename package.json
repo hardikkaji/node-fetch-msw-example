@@ -1,0 +1,19 @@
+{
+  "name": "fetch-msw-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  },
+  "devDependencies": {
+    "msw": "^1.2.1",
+    "typescript": "^5.0.3",
+    "vitest": "^0.29.8"
+  }
+}
